@@ -8,6 +8,6 @@ Predict which customers are more likely to make a purchase and identify the key 
 - You can also access all the data used in this project directly [here](https://github.com/SantiagoRios-Pro/CRM-Purchase-Prediction/blob/main/online_shoppers_intention_zip.zip).
 
 ### 🧰 Tools Used
-- **R**: To explore the data and build the predictive models [View R scripts]().
+- **R**: To explore the data and build the predictive models [View R scripts](https://github.com/SantiagoRios-Pro/CRM-Purchase-Prediction/blob/main/CRM-Purchase-Prediction.md).
 
 ### 📈 Dashboard
